@@ -1,63 +1,58 @@
 <!-- ======================= HEADER ======================= --><h1 align="center">Hi 👋, I'm Yogitha N S</h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Python+%7C+React+%7C+FastAPI;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Python+%7C+React+%7C+FastAPI;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
 </p><p align="center">
   <a href="https://github.com/yogitha-ns">
-    <img src="https://img.shields.io/badge/GitHub-yogitha--ns-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-yogitha--ns-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yogitha-n-s-0a48842a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yogitha%20N%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Yogitha%20N%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>---
 
-<!-- ======================= ABOUT ======================= -->👩‍💻 About Me
+👩‍💻 About Me
 
 🎓 B.E. Computer Science & Engineering Student
 🏫 Bahubali College of Engineering
-📅 Expected Graduation: 2027
 
 I am a Computer Science Engineering student interested in software development and web technologies.
 
-I enjoy building practical projects, exploring new technologies, and improving my programming skills through hands-on development.
+I enjoy building practical applications, exploring technologies, and improving my programming skills through hands-on projects.
 
 - 💻 Interested in Software Development
 - 🌐 Interested in Web Technologies
 - 🐍 Working with Python
 - ⚛️ Exploring React
-- ⚡ Building applications with FastAPI & Flask
-- 🐳 Learning Docker
-- 🔧 Using Git & GitHub for development
+- ⚡ Working with FastAPI & Flask
+- 🐳 Exploring Docker
+- 🔧 Using Git & GitHub
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->🛠️ Tech Stack
+🛠️ Tech Stack
 
-💻 Languages
+💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js" />
-</p>🌐 Frontend
+</p>🌐 Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>🗄️ Database
+  <img src="https://skillicons.dev/icons?i=html,css,react,fastapi,flask" />
+</p>🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,mongodb" />
-</p>🔧 Tools
+</p>🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>---
 
-<!-- ======================= PROJECTS ======================= -->🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
 <tr><td width="50%" valign="top"><h3>🔐 TrustShare</h3><p>
-A secure file-sharing system developed using modern web technologies.
+A secure file-sharing system built using React and FastAPI.
 </p><p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -71,7 +66,7 @@ A software project focused on managing hospital-related information and operatio
 </p><a href="https://github.com/yogitha-ns/hospital-management-system">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></td></tr><tr><td width="50%" valign="top"><h3>🧴 Skincare Flask Docker</h3><p>
-A Flask-based web application containerized using Docker.
+A Flask web application containerized using Docker.
 </p><p>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -88,7 +83,7 @@ Personal portfolio website showcasing my skills, projects and development journe
 </a></td></tr>
 </table>---
 
-<!-- ======================= CURRENTLY LEARNING ======================= -->🌱 Currently Learning & Improving
+🌱 Currently Learning & Improving
 
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -97,23 +92,29 @@ Personal portfolio website showcasing my skills, projects and development journe
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></p>---
 
-<!-- ======================= GITHUB STATS ======================= -->📊 GitHub Statistics
+📊 GitHub Statistics
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yogitha-ns&show_icons=true&hide_border=true&rank_icon=github" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-ns&layout=compact&hide_border=true" height="170"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yogitha-ns&hide_border=true" /></p>---
-
-<!-- ======================= CONTRIBUTION SNAKE ======================= -->🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yogitha-ns&show_icons=true&hide_border=true&rank_icon=github" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-ns&layout=compact&hide_border=true" height="170"/></p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogitha-ns&hide_border=true" alt="GitHub Streak"/>
 </p>---
 
-<!-- ======================= CAREER ======================= -->🎯 Career Goal
+🐍 Contribution Activity
 
-I aim to begin my career as a Software Engineer, contribute to real-world software projects, and continuously develop my technical and problem-solving abilities through practical experience.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake.svg">
+  </picture>
+</p>---
+
+🎯 Career Goal
+
+To begin my career as a Software Engineer, contribute to real-world software projects, and continuously grow my technical skills through practical experience.
 
 ---
 
-<!-- ======================= CONNECT ======================= -->🤝 Connect With Me
+🤝 Connect With Me
 
 <p align="center"><a href="https://github.com/yogitha-ns">
 <img src="https://img.shields.io/badge/GitHub-yogitha--ns-181717?style=for-the-badge&logo=github&logoColor=white"/>
