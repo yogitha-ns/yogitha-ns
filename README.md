@@ -94,8 +94,7 @@ Personal portfolio website showcasing my skills, projects and development journe
 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogitha-ns&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-ns&layout=compact&hide_border=true" height="170"/>
+
 </p><p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogitha-ns&hide_border=true" alt="GitHub Streak"/>
 </p>---
