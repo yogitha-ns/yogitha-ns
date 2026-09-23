@@ -12,6 +12,7 @@
 👩‍💻 About Me
 
 🎓 B.E. Computer Science & Engineering Student
+
 🏫 Bahubali College of Engineering
 
 I am a Computer Science Engineering student interested in software development and web technologies.
