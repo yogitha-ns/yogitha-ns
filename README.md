@@ -1,4 +1,4 @@
-<!-- ======================= HEADER ======================= --><h1 align="center">Hi 👋, I'm Yogitha N S</h1><p align="center">
+<h1 align="center">Hi 👋, I'm Yogitha N S</h1><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Python+%7C+React+%7C+FastAPI;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
 </p><p align="center">
   <a href="https://github.com/yogitha-ns">
@@ -30,21 +30,21 @@ I enjoy building practical applications, exploring technologies, and improving m
 
 🛠️ Tech Stack
 
-💻 Programming Languages
+💻 Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>🌐 Web Technologies
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,fastapi,flask" />
 </p>🗄️ Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=sqlite,mongodb" />
 </p>🔧 Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>---
 
@@ -58,20 +58,20 @@ A secure file-sharing system built using React and FastAPI.
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 </p><a href="https://github.com/yogitha-ns/trust-share">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></td><td width="50%" valign="top"><h3>🏥 Hospital Management System</h3><p>
 A software project focused on managing hospital-related information and operations.
 </p><p>
 <img src="https://img.shields.io/badge/Project-Development-6C63FF?style=flat-square"/>
 </p><a href="https://github.com/yogitha-ns/hospital-management-system">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></td></tr><tr><td width="50%" valign="top"><h3>🧴 Skincare Flask Docker</h3><p>
 A Flask web application containerized using Docker.
 </p><p>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p><a href="https://github.com/yogitha-ns/skincare-flask-docker">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></td><td width="50%" valign="top"><h3>💼 My Portfolio</h3><p>
 Personal portfolio website showcasing my skills, projects and development journey.
 </p><p>
@@ -79,7 +79,7 @@ Personal portfolio website showcasing my skills, projects and development journe
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p><a href="https://github.com/yogitha-ns/my-portfolio">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></td></tr>
 </table>---
 
@@ -94,7 +94,10 @@ Personal portfolio website showcasing my skills, projects and development journe
 
 📊 GitHub Statistics
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yogitha-ns&show_icons=true&hide_border=true&rank_icon=github" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-ns&layout=compact&hide_border=true" height="170"/></p><p align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogitha-ns&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-ns&layout=compact&hide_border=true" height="170"/>
+</p><p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogitha-ns&hide_border=true" alt="GitHub Streak"/>
 </p>---
 
@@ -102,9 +105,18 @@ Personal portfolio website showcasing my skills, projects and development journe
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
   </picture>
 </p>---
 
