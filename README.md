@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogitha N S</h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Python+%7C+React+%7C+FastAPI;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
 </p><p align="center">
   <a href="https://github.com/yogitha-ns">
     <img src="https://img.shields.io/badge/GitHub-yogitha--ns-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -30,7 +30,7 @@ I enjoy building practical applications, exploring technologies, and improving m
 
 🛠️ Tech Stack
 
-💻 Languages
+💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js" />
@@ -61,8 +61,6 @@ A secure file-sharing system built using React and FastAPI.
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></td><td width="50%" valign="top"><h3>🏥 Hospital Management System</h3><p>
 A software project focused on managing hospital-related information and operations.
-</p><p>
-<img src="https://img.shields.io/badge/Project-Development-6C63FF?style=flat-square"/>
 </p><a href="https://github.com/yogitha-ns/hospital-management-system">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></td></tr><tr><td width="50%" valign="top"><h3>🧴 Skincare Flask Docker</h3><p>
@@ -99,25 +97,6 @@ Personal portfolio website showcasing my skills, projects and development journe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitha-ns&layout=compact&hide_border=true" height="170"/>
 </p><p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogitha-ns&hide_border=true" alt="GitHub Streak"/>
-</p>---
-
-🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/yogitha-ns/yogitha-ns/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
 </p>---
 
 🎯 Career Goal
